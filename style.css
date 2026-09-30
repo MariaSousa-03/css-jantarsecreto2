@@ -1,0 +1,46 @@
+body {
+    background-color: #171112;
+    color: #4F000B;
+}
+.caixinha {
+    background-color: #4F000B;
+    color: #FFFFFF;
+    font-family: Georgia, serif;
+    padding: 20px;
+}
+
+.caixinha h1 {
+    color:bisque;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif
+}
+
+.apresentacao {
+    background-color: #4F000B;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.apresentacao img {
+    width: 250px;
+}
+
+.texto {
+    color: #F5E9E3;
+}
+
+.texto h2 {
+    color:bisque
+
+}
+
+.autor {
+    background-color: #4F000B;
+    color: #FFFFFF;
+    font-family: Georgia, serif;
+    padding: 20px;
+}
+
+.autor h2 {
+    color:bisque
+}
